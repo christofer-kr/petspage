@@ -1,8 +1,9 @@
- .navbar{
+.navbar{
     margin-top: 20px;
     border-radius: 50px;
     display: flex;
     margin-bottom: 20px;
+    
  
  }
  .navbar-nav .nav-item {
@@ -18,4 +19,37 @@ a{
 }
 .btn-secondary{
     background-color: aqua;
+}
+.carousel-inner img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#texto-carousel1{ 
+    
+    color: black;
+}
+.carousel-caption p {
+  font-size: 1.6rem;
+}
+.carousel-caption h5 {
+  font-size: 2.2rem; /* ajuste conforme desejar */
+}
+body {
+    background-color: #000000;
+}
+#btn1{
+    color: black;
+    background-color: peru;
+    border: #000000;
+}
+
+#btn2{
+    color: black;
+    background-color: peru;
+    border: #000000;
+}
+#btn3 {
+    color: #F2AC57;
+    background-color: #8C641B;
 }
